@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": "4679",
+      "name": "Nike Air Force",
+      "price": "140",
+      "type": "man",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/80aedd22-9297-4253-ae6d-f935edbbf654/air-max-1-mens-shoes-2C5sX2.png"
+    },
+    {
+      "id": "f018",
+      "name": "Nike Air Force",
+      "price": "140",
+      "type": "man",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/80aedd22-9297-4253-ae6d-f935edbbf654/air-max-1-mens-shoes-2C5sX2.png"
+    },
+    {
+      "id": "fae8",
+      "name": "Nike Air Force",
+      "price": "140",
+      "type": "man",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/80aedd22-9297-4253-ae6d-f935edbbf654/air-max-1-mens-shoes-2C5sX2.png"
+    },
+    {
+      "id": "a77c",
+      "name": "Nike Air Force",
+      "price": "140",
+      "type": "man",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/80aedd22-9297-4253-ae6d-f935edbbf654/air-max-1-mens-shoes-2C5sX2.png"
+    },
+    {
+      "id": "482b",
+      "name": "",
+      "price": "",
+      "type": "",
+      "image": ""
+    }
+  ]
+}
